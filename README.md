@@ -23,7 +23,7 @@ public class CodeUp1567 {
 		 int s=sc.nextInt();
 		 int e=sc.nextInt();
 		 
-		 int res=0;
+		 long res=0;
 		 for (int i = s; i <= e; i++) {	
 			  res+=arr[i-1];
 		}
