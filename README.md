@@ -27,7 +27,7 @@ public class CodeUp1567 {
 		 for (int i = s; i <= e; i++) {	
 			  res+=arr[i-1];
 		}
-		 System.out.print(res+" ");
+		 System.out.println(res);
 		
 	}
 }
